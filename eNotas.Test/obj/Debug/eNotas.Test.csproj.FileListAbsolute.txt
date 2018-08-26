@@ -1,0 +1,33 @@
+C:\Users\Acaz\Desktop\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.exe.config
+C:\Users\Acaz\Desktop\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.exe
+C:\Users\Acaz\Desktop\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.pdb
+C:\Users\Acaz\Desktop\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.Core.dll
+C:\Users\Acaz\Desktop\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.csprojResolveAssemblyReference.cache
+C:\Users\Acaz\Desktop\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.exe
+C:\Users\Acaz\Desktop\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.pdb
+C:\Users\Acaz\Desktop\eNotas\Prova Full Stack\eNotas.Test\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.exe.config
+C:\Users\Acaz\Desktop\eNotas\Prova Full Stack\eNotas.Test\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.exe
+C:\Users\Acaz\Desktop\eNotas\Prova Full Stack\eNotas.Test\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.pdb
+C:\Users\Acaz\Desktop\eNotas\Prova Full Stack\eNotas.Test\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.exe
+C:\Users\Acaz\Desktop\eNotas\Prova Full Stack\eNotas.Test\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.pdb
+C:\Users\Acaz\Desktop\eNotas\Prova Full Stack\eNotas.Test\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.Core.dll
+C:\Users\Acaz\Desktop\eNotas\Prova Full Stack\eNotas.Test\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.csprojResolveAssemblyReference.cache
+C:\Users\andre.lgoncalves\Downloads\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.exe.config
+C:\Users\andre.lgoncalves\Downloads\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.exe
+C:\Users\andre.lgoncalves\Downloads\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.pdb
+C:\Users\andre.lgoncalves\Downloads\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.Core.dll
+C:\Users\andre.lgoncalves\Downloads\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.csprojAssemblyReference.cache
+C:\Users\andre.lgoncalves\Downloads\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.csproj.CoreCompileInputs.cache
+C:\Users\andre.lgoncalves\Downloads\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.csproj.CopyComplete
+C:\Users\andre.lgoncalves\Downloads\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.exe
+C:\Users\andre.lgoncalves\Downloads\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.pdb
+C:\Users\deco1\Desktop\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.exe.config
+C:\Users\deco1\Desktop\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.exe
+C:\Users\deco1\Desktop\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.pdb
+C:\Users\deco1\Desktop\eNotas.Test\eNotas.Test\bin\Debug\eNotas.Test.Core.dll
+C:\Users\deco1\Desktop\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.csprojResolveAssemblyReference.cache
+C:\Users\deco1\Desktop\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.csproj.CoreCompileInputs.cache
+C:\Users\deco1\Desktop\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.csproj.CopyComplete
+C:\Users\deco1\Desktop\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.exe
+C:\Users\deco1\Desktop\eNotas.Test\eNotas.Test\obj\Debug\eNotas.Test.pdb
+C:\Users\deco1\Desktop\eNotas.Test\eNotas.Test\bin\Debug\SQLite.NET.dll

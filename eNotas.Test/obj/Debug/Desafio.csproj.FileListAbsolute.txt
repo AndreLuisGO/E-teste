@@ -1,0 +1,7 @@
+C:\Users\Acaz\Desktop\eNotas.Teste\Desafio\bin\Debug\eNotas.Test.exe.config
+C:\Users\Acaz\Desktop\eNotas.Teste\Desafio\obj\Debug\eNotas.Test.exe
+C:\Users\Acaz\Desktop\eNotas.Teste\Desafio\obj\Debug\eNotas.Test.pdb
+C:\Users\Acaz\Desktop\eNotas.Teste\Desafio\bin\Debug\eNotas.Test.exe
+C:\Users\Acaz\Desktop\eNotas.Teste\Desafio\bin\Debug\eNotas.Test.pdb
+C:\Users\Acaz\Desktop\eNotas.Teste\Desafio\bin\Debug\eNotas.Test.Core.dll
+C:\Users\Acaz\Desktop\eNotas.Teste\Desafio\obj\Debug\Desafio.csprojResolveAssemblyReference.cache

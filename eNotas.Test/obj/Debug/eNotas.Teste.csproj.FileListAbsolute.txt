@@ -1,0 +1,3 @@
+C:\Users\Acaz\Desktop\eNotas.Teste\eNotas.Teste\bin\Debug\eNotas.Test.exe.config
+C:\Users\Acaz\Desktop\eNotas.Teste\eNotas.Teste\obj\Debug\eNotas.Test.exe
+C:\Users\Acaz\Desktop\eNotas.Teste\eNotas.Teste\obj\Debug\eNotas.Test.pdb
